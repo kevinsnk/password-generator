@@ -1,2 +1,1 @@
-# password-generator
-Proyecto de generación de contraseñas aleatorias en React Native
+https://www.geeksforgeeks.org/how-to-generate-random-password-in-react-native/
